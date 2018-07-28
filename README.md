@@ -1,3 +1,13 @@
+# FastTrack for Azure
+
+See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
+
+# Security and Management Scenarios
+
+* [Governance](governance/)
+* Identity for Organizations
+* Identity for Applications
+
 
 # Contributing
 
