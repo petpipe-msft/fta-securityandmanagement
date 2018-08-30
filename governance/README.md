@@ -13,6 +13,7 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
     * [Resource Locks](articles/azure-governance-reference-resources.md#resource-locks)
     * [Resource Tags](articles/azure-governance-reference-resources.md#resource-tags)
     * [Role-based Access Control](articles/azure-governance-reference-resources.md#role-based-access-control)
+    * [Azure management groups](articles/azure-governance-reference-resources.md#management-groups)
     * [Security Center](articles/azure-governance-reference-resources.md#security-center)
     * [Azure Advisor](articles/azure-governance-reference-resources.md#azure-advisor)
     * [Automation](articles/azure-governance-reference-resources.md#automation)

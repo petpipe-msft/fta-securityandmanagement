@@ -65,7 +65,7 @@
 * [Manage access to billing information for Azure using role-based access control](https://docs.microsoft.com/en-us/azure/billing/billing-manage-access)
 
 
-## Azure management groups
+## Management groups
 
 * [Azure management groups now in general availability](https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/)
 
