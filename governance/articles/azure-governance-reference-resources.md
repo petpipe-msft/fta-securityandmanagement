@@ -6,6 +6,8 @@
 
 * [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure)
 
+* [Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption-guide/subscription-governance-examples)
+
 * [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 
 * [Azure Virtual Datacenter and the Enterprise Control Plane](https://docs.microsoft.com/en-us/azure/architecture/vdc/)
