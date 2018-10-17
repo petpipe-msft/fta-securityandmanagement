@@ -2,11 +2,13 @@
 
 ## Governance overview
 
-* [Azure enterprise scaffold - prescriptive subscription governance](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-subscription-governance)
+* [Governance in Azure](https://docs.microsoft.com/en-us/azure/governance/)
 
-* [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure)
+* [Enterprise Cloud Adoption: What is cloud resource governance?](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/what-is-governance)
 
-* [Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption-guide/subscription-governance-examples)
+* [Azure enterprise scaffold - prescriptive subscription governance](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold)
+
+* [Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold-examples)
 
 * [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 
