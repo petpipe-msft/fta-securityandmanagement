@@ -109,9 +109,11 @@
 
 ## Azure Cost Management
 
-* [What is Azure Cost Management?](https://docs.microsoft.com/en-us/azure/cost-management/overview)
+* [What is Azure Cost Management?](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)
 
-* Register an Azure subscription and view cost data
+* [What is Cloudyn?](https://docs.microsoft.com/en-us/azure/cost-management/overview)
+
+* Register to use Cloudyn
     * [For EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea)
     * [For Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub)
     * [For CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)
