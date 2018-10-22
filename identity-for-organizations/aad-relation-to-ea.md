@@ -76,7 +76,3 @@ EA Authentication levels:
 [Subscription to AAD relation](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-how-subscriptions-associated-directory)
 
 [Transfering subscriptions + advanced scenarios](https://kvaes.wordpress.com/2018/03/13/azure-subscription-management-beyond-the-101-aka-the-advanced-topics/)
-
-## Staging Notes [to be removed upon release]
-
-2018-05-16 [ThoVuy]: this style is more a real article and not so much slideless/speaker notes. The main reason is that a lot of this content is not available anywhere on docs. But I'm still open for changing this to real slideless or have it publicly available
