@@ -5,7 +5,7 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 # Security and Management Scenarios
 
 * [Governance](governance/)
-* Identity for Organizations
+* [Identity for Organizations](identity-for-organizations/)
 * Identity for Applications
 
 
