@@ -124,5 +124,9 @@
 
 * [What is Cloudyn?](https://docs.microsoft.com/en-us/azure/cost-management/overview)
 
-* Register to use Cloudyn [[EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea), [Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub), [CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)
-]
+* Register to use Cloudyn [[EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea), [Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub), [CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)]
+
+
+## Azure Enterprise Portal
+
+* [EA Onboarding YouTube Channel](https://www.youtube.com/channel/UCMQGYWHJgkyKGp6JsAMMFNw)
