@@ -111,9 +111,18 @@
 
 * [What is Azure Cost Management?](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)
 
+* [Azure Cost Management best practices](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-best-practices)
+
+* Azure Cost Management tutorials:
+    * [Assign access to Cost Management data](https://docs.microsoft.com/en-us/azure/cost-management/assign-access-acm-data)
+    * [Explore and analyze costs](https://docs.microsoft.com/en-us/azure/cost-management/quick-acm-cost-analysis)
+    * [Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-acm-create-budgets)
+    * [Create and manage exported data](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-export-acm-data)
+    * [Optimize costs from recommendations](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-acm-opt-recommendations)
+
+* [When to use Azure Cost Management or Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt#consider-cloudyn)
+
 * [What is Cloudyn?](https://docs.microsoft.com/en-us/azure/cost-management/overview)
 
-* Register to use Cloudyn
-    * [For EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea)
-    * [For Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub)
-    * [For CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)
+* Register to use Cloudyn [[EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea), [Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub), [CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)
+]
