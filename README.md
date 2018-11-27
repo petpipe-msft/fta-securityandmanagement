@@ -5,7 +5,8 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 # Security and Management Scenarios
 
 * [Governance](governance/)
-* [Identity for Organizations](identity-for-organizations/)
+* [Monitoring](monitoring/)
+* [Identity for Organizations](identity-for-organizations/aad-relation-to-ea.md)
 * Identity for Applications
 
 
