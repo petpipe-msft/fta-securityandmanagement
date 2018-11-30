@@ -6,6 +6,7 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 
 * [Governance](governance/)
 * [Monitoring](monitoring/)
+* [Security](security/)
 * [Identity for Organizations](identity-for-organizations/aad-relation-to-ea.md)
 * Identity for Applications
 
