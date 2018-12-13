@@ -1,5 +1,9 @@
 # Azure Governance - Reference Resources
 
+* Set up your Azure environment - Azure readiness playbook overview - [Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartPlaybookBlade) | [Docs](https://docs.microsoft.com/en-us/azure/portal-docs/playbooks/azure-readiness/before-you-start)
+
+
+
 ## Governance overview
 
 * [Governance in Azure](https://docs.microsoft.com/en-us/azure/governance/)
