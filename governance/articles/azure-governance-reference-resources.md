@@ -129,6 +129,21 @@
 * Register to use Cloudyn [[EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea), [Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub), [CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)]
 
 
+## Azure Blueprints
+
+* [What is Azure Blueprints?](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+
+* [Lifecycle of an Azure Blueprint?](https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/lifecycle)
+
+* [How to create dynamic blueprints through parameters](https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/parameters)
+
+* [Deployment sequence in Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/sequencing-order)
+
+* [Resource locking in Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/resource-locking)
+
+* [Troubleshoot errors using Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/troubleshoot/general)
+
+
 ## Azure Enterprise Portal
 
 * [EA Onboarding YouTube Channel](https://www.youtube.com/channel/UCMQGYWHJgkyKGp6JsAMMFNw)
