@@ -43,11 +43,9 @@
 
 ## Policies
 
-* [Resource policy](https://docs.microsoft.com/en-us/azure/azure-policy/azure-policy-introduction) 
+* [Azure policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) 
 
 * [Azure Policy samples](https://github.com/azure/azure-policy)
-
-* [Activity logs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-audit)
 
 
 ## Resource Locks
