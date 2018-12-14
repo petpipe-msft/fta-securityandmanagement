@@ -109,7 +109,7 @@
 * [Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro)
 
 
-## Azure Cost Management
+## Cost Management
 
 * [What is Azure Cost Management?](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)
 
@@ -129,7 +129,7 @@
 * Register to use Cloudyn [[EA Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-ea), [Direct Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-azure-sub), [CSP Customers](https://docs.microsoft.com/en-us/azure/cost-management/quick-register-csp)]
 
 
-## Azure Blueprints
+## Blueprints
 
 * [What is Azure Blueprints?](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
 
