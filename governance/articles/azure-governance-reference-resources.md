@@ -32,6 +32,13 @@
 * [Naming Conventions Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
 
 
+## Management groups
+
+* [Azure management groups now in general availability](https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/)
+
+* [Organize your resources with Azure management groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview)
+
+
 ## Resource Groups
 
 * [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups)
@@ -39,6 +46,22 @@
 * [Guidance: Azure resource group design](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption-guide/adoption-intro/resource-group)
 
 * [Move resources to new resource group or subscription](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources)
+
+
+## Role-based Access Control
+
+* [Get started with Role-Based Access Control in the Azure portal](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-what-is)
+
+* [Create custom roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-custom-roles)
+
+* [Manage access to billing information for Azure using role-based access control](https://docs.microsoft.com/en-us/azure/billing/billing-manage-access)
+
+
+## Resource Tags
+
+* [Use tags to organize your Azure resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
+
+* [Billing tags policy initiative](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/billing-tags-policy-init)
 
 
 ## Policies
@@ -51,29 +74,6 @@
 ## Resource Locks
 
 * [Lock resources to prevent unexpected changes](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
-
-
-## Resource Tags
-
-* [Use tags to organize your Azure resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
-
-* [Billing tags policy initiative](https://docs.microsoft.com/en-us/azure/azure-policy/scripts/billing-tags-policy-init)
-
-
-## Role-based Access Control
-
-* [Get started with Role-Based Access Control in the Azure portal](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-what-is)
-
-* [Create custom roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-custom-roles)
-
-* [Manage access to billing information for Azure using role-based access control](https://docs.microsoft.com/en-us/azure/billing/billing-manage-access)
-
-
-## Management groups
-
-* [Azure management groups now in general availability](https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/)
-
-* [Organize your resources with Azure management groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview)
 
 
 ## Security Center
