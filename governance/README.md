@@ -47,5 +47,5 @@ We know that staying up to date with Azure can be challenging, but it really sho
     * [Security Center](articles/azure-governance-reference-resources.md#security-center)
     * [Azure Advisor](articles/azure-governance-reference-resources.md#azure-advisor)
     * [Automation](articles/azure-governance-reference-resources.md#automation)
-    * [Cost Management](articles/azure-governance-reference-resources.md#azure-cost-management)
-    * [Blueprints](articles/azure-governance-reference-resources.md#azure-blueprints)
+    * [Cost Management](articles/azure-governance-reference-resources.md#cost-management)
+    * [Blueprints](articles/azure-governance-reference-resources.md#blueprints)
