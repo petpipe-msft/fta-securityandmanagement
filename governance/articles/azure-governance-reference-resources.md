@@ -3,7 +3,6 @@
 * Set up your Azure environment - Azure readiness playbook overview - [Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartPlaybookBlade) | [Docs](https://docs.microsoft.com/en-us/azure/portal-docs/playbooks/azure-readiness/before-you-start)
 
 
-
 ## Governance overview
 
 * [Governance in Azure](https://docs.microsoft.com/en-us/azure/governance/)
@@ -75,18 +74,6 @@
 
 * [Lock resources to prevent unexpected changes](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
 
-
-## Security Center
-
-* [Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro)
-
-* [Azure Security Center frequently asked questions (FAQ)](https://docs.microsoft.com/en-us/azure/security-center/security-center-faq)
-
-* [Azure Security Center planning and operations guide](https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide)
-
-* [Permissions in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-permissions)
-
-* [Azure Security Center - channel 9 demo](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Security-Center)
 
 
 ## Azure Advisor

@@ -6,4 +6,5 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 # Security
 
 * [Reference Resources](articles/azure-security-reference-resources.md)
+    * [Security Center](articles/azure-security-reference-resources.md#security-center)
 
