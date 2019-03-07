@@ -13,3 +13,13 @@
 
 * [Azure Security Center - channel 9 demo](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Security-Center)
 
+## Key Vault
+
+* [What is Azure Key Vault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
+
+
+## Sentinel
+
+* [What is Azure Sentinel Preview?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+
+* [Introducing Microsoft Azure Sentinel (video)](https://azure.microsoft.com/en-us/resources/videos/introducing-microsoft-azure-sentinel/)
