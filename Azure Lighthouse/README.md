@@ -8,7 +8,7 @@ We know that staying up to date with Azure can be challenging, but it really sho
 
 * [Learn how to stay current with Azure updates](https://docs.microsoft.com/en-us/azure/portal-docs/playbooks/azure-readiness/staying-current)
 
-# Lighhouse
+# Lighthouse
 
 * [Reference Resources]()
     * [Azure deleated resource management]()
