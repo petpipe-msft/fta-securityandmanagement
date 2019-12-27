@@ -8,7 +8,7 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 * [Monitoring](monitoring/)
 * [Security](security/)
 * [Identity for Organizations](identity-for-organizations/aad-relation-to-ea.md)
-* [Azure Lighthouse]
+* Azure Lighthouse
 * Identity for Applications
 
 
